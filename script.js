@@ -43,7 +43,7 @@ slideNavButtons.forEach(function (button, index) {
   });
 });
 
-var autoSlideInterval = 100000000; // Change to the desired interval in milliseconds
+var autoSlideInterval = 7000; // Change to the desired interval in milliseconds
 var currentSlideIndex = 0;
 
 function autoSlide() {
