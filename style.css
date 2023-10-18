@@ -561,7 +561,7 @@ html {
 
 	.inner-div{
 		border: 1px solid green;
-		width: 200%;
+		width: 100%;
 	}
 
 	.text--sub{
@@ -608,7 +608,7 @@ html {
 
 	/* .product css here  */
 	.products{
-		width: 200%;
+		width: 100%;
 		min-height: 90vh;
 		padding-bottom: 10%;
 	}
@@ -624,7 +624,7 @@ html {
 
 	/* about css here  */
 	.about{
-		width: 200%;
+		width: 100%;
 		flex-direction: column;
 		padding: 10% 2%;
 		text-align: center;
@@ -670,7 +670,7 @@ html {
 	/* footer css here  */
 	.footer{
 		padding: 5% 10%;
-		width: 200%;
+		width: 100%;
 		border: 1px solid red;
 	}
 
